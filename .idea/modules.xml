@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Avatars-nu-git-repo.iml" filepath="$PROJECT_DIR$/.idea/Avatars-nu-git-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newproject.iml" filepath="$PROJECT_DIR$/newproject.iml" />
     </modules>
   </component>
 </project>
